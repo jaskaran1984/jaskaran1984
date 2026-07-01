@@ -35,7 +35,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/jaskaran-singh-3436ba341/" target="_blank">
+<a href="https://www.linkedin.com/in/jaskaran-singh-3436ba341/" target="_blank" rel="noopener noreferrer">
 <img height="100" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782901920/LinkedIn_Icon-Photoroom_dzo9cu.png"/></a>
 
 
