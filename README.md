@@ -10,7 +10,8 @@
 </div>
 
 ---
-<h1 align="center">About me</h1>
+<h1>About me</h1>
+<p>Hi, I'm a passionate <b>Digital Creator</b> who loves turning ideas into reality. I specialize in <b>Full Stack Development, UI/UX Design, Graphic Design, Cinematography, Videography, and Video Editing.</b> Whether it's building websites, designing user experiences, or creating visual content, I enjoy crafting digital experiences that are creative, functional, and meaningful.</p>
 
 
 <img align="center" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782931360/Hii_I_m_Jaskaran_Singh_2_whojpw.png">
