@@ -13,7 +13,7 @@
 <h1 align="center">About me</h1>
 
 
-<img align="center" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782930946/Hii_I_m_Jaskaran_Singh_1_cxoyjm.png">
+<img align="center" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782931360/Hii_I_m_Jaskaran_Singh_2_whojpw.png">
 
 
 <!--
