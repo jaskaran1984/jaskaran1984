@@ -15,15 +15,13 @@
 <h1>Jaskaran singh</h1>
 <img align="right" height="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-✨ Passionate Full Stack Developer
-
-💻 Love building modern web applications
-
-🌱 Currently learning AI & Cloud Computing
-
-🚀 Open Source Enthusiast
-
-⚡ Fun Fact: I turn coffee into code ☕
+✨ Digital Creator
+💻 Full Stack Developer
+🎨 Graphic Designer
+🖌️ UI/UX Designer
+🎥 Cinematographer & Videographer
+🎬 Professional Video Editor
+⚡ Crafting digital experiences from concept to creation
 
 ---
 
