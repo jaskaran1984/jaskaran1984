@@ -35,11 +35,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/jaskaran-singh-3436ba341/">
+<a href="https://www.linkedin.com/in/jaskaran-singh-3436ba341/" target="_blank">
 <img height="100" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782901920/LinkedIn_Icon-Photoroom_dzo9cu.png"/></a>
 
 
-<a href="https://www.instagram.com/jaskaran.ll/">
+<a href="https://www.instagram.com/jaskaran.ll/" target="_blank">
 <img height="94" src="https://res.cloudinary.com/dvzam3mdv/image/upload/v1782902240/download_25_-Photoroom_byl0uu.png"/></a>
 
 
