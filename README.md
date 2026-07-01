@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/jaskaran-singh-3436ba341/" target="_blank" rel="noopener noreferrer">
 <img src="https://skillicons.dev/icons?i=linkedin"/></a>
 ㅤ
-<a href ="https://www.instagram.com/jaskaran.ll/">
+<a href ="https://www.instagram.com/jaskaran.ll/" target="_blank" rel="noopener noreferrer">
 <img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
