@@ -49,7 +49,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts"/>
+<img src="https://skillicons.dev/icons?i=c,python,js"/>
 
 </p>
 
@@ -57,10 +57,11 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs"/>
 
 </p>
 
+<!--
 ### Backend
 
 <p>
@@ -68,12 +69,12 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask"/>
 
 </p>
-
+-->
 ### Database
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
@@ -81,8 +82,13 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
+</p>
+
+### Editing tools
+<p>
+<img src="https://skillicons.dev/icons?i=ae,pr"/>
 </p>
 
 ---
